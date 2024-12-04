@@ -6,6 +6,17 @@
 
         <title inertia>{{ config('app.name', 'Laravel') }}</title>
 
+        <link rel="icon" type="image/png" href="/images/favicons/favicon-20x20.png">
+
+        <meta property="og:type" content="website">
+        <meta property="og:site_name" content="TaskApp">
+        <meta property="og:title" content="TaskApp - задачи">
+        <meta property="og:description" content="Легкий и удобный способ управлять задачами и проектами!">
+        <meta property="og:locale" content="ru">
+        <meta property="og:image" content="/images/og_image.png">
+        <meta property="og:image:width" content="1384">
+        <meta property="og:image:height" content="504">
+
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
         <link href="https://fonts.bunny.net/css?family=figtree:400,500,600&display=swap" rel="stylesheet" />
