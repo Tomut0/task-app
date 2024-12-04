@@ -10,6 +10,9 @@
 * [Heroicons](https://www.npmjs.com/package/heroicons)
 * [Vue DatePicker](https://vue3datepicker.com/)
 * [Референс дизайна](https://dribbble.com/shots/24460374-List-Task-Project-Tracker)
+## Структура БД
+![image](public/images/screenshots/drawsql.png)
+[DrawSQL.app](https://drawsql.app/teams/catarsys/diagrams/taskapp)
 ## Установка и запуск
 1. Клонировать репозиторий
 ```bash
