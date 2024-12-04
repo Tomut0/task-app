@@ -1,9 +1,9 @@
 <script setup>
 import { computed } from 'vue';
 import { Head, Link, useForm } from '@inertiajs/vue3';
-import AuthenticationCard from '@/Components/AuthenticationCard.vue';
-import AuthenticationCardLogo from '@/Components/AuthenticationCardLogo.vue';
-import PrimaryButton from '@/Components/PrimaryButton.vue';
+import AuthenticationCard from '@/Components/defaultUI/AuthenticationCard.vue';
+import AuthenticationCardLogo from '@/Components/defaultUI/ApplicationLogo.vue';
+import PrimaryButton from '@/Components/defaultUI/PrimaryButton.vue';
 
 const props = defineProps({
     status: String,
