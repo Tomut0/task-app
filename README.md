@@ -43,11 +43,11 @@ php artisan migrate
 ```
 php artisan db:seed
 ```
-8. Запустить php сервер
+8. Запустить php-сервер
 ```bash
 php artisan serve
 ```
-9. Запустить node.js сервер
+9. Скомпилировать ассеты 
 ```bash
 npm run build
 ```
