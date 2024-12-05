@@ -14,6 +14,9 @@
 ![image](public/images/screenshots/drawsql.png)
 [DrawSQL.app](https://drawsql.app/teams/catarsys/diagrams/taskapp)
 ## Установка и запуск
+## Docker
+Установка через Docker описывается [тут](docker/README.md).
+## Локально (non production)
 1. Клонировать репозиторий
 ```bash
 git clone https://github.com/Tomut0/task-app
